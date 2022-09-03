@@ -16,7 +16,7 @@ https://oo1o.cn
 ☄️大气压强：{{pressure.DATA}}
 {{birthday1.DATA}} 
 {{birthday2.DATA}}
-今天是我门相识的第{{love_day.DATA}}天
+今天是我们在一起的第{{love_day.DATA}}天
 
 
 
